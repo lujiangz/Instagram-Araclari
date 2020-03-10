@@ -1,16 +1,16 @@
 // ==UserScript==
-// @name         Nega Instagram Araçları
-// @namespace    https://nebigarci.net
-// @author       Nebi GARCI
+// @name         Mehmet Sevuk Instagram Araclari
+// @namespace    https://github.com/lujiangz
+// @author       Mehmet Sevuk
 // @match        https://www.instagram.com/*
-// @version      2.8.6
-// @description  Instagram hesabınızı daha etkin kullanmanız için Nebi Garcı tarafından hazırlanmıştır.
-// @icon         http://www.nebigarci.net/wp-content/uploads/eklentiler/logonia.png
-// @connect      nebigarci.net
+// @version      6.6.6
+// @description  Instagram hesabınızı daha etkin kullanmanız için Mehmet Sevuk tarafından hazırlanmıştır.
+// @icon         https://raw.githubusercontent.com/lujiangz/Instagram-Araclari/master/insta.png
+// @connect      github.com/lujiangz
 // @grant        GM_xmlhttpRequest
 // @require      https://code.jquery.com/jquery-1.8.3.min.js
-// @require      https://nebigarci.net/eklenti/instapi.js
+// @require      https://raw.githubusercontent.com/lujiangz/Instagram-Araclari/master/instapi.js
 // @require     https://raw.githubusercontent.com/blueimp/JavaScript-MD5/master/js/md5.min.js
-// @updateURL    https://nebigarci.net/eklenti/nia.meta.js
+// @updateURL    https://raw.githubusercontent.com/lujiangz/Instagram-Araclari/master/instagram-araclari.meta.js
 // @downloadURL    https://nebigarci.net/nia
 // ==/UserScript==
