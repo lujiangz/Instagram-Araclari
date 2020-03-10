@@ -12,5 +12,5 @@
 // @require      https://raw.githubusercontent.com/lujiangz/Instagram-Araclari/master/instapi.js
 // @require     https://raw.githubusercontent.com/blueimp/JavaScript-MD5/master/js/md5.min.js
 // @updateURL    https://raw.githubusercontent.com/lujiangz/Instagram-Araclari/master/instagram-araclari.meta.js
-// @downloadURL    https://nebigarci.net/nia
+// @downloadURL    https://github.com/lujiangz/Instagram-Araclari/raw/master/instagram-araclari.user.js
 // ==/UserScript==
